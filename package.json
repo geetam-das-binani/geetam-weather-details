@@ -7,8 +7,5 @@
   "scripts": {},
   "keywords": [],
   "author": "Geetam Das Binani",
-  "license": "ISC",
-  "dependencies": {
-    "dotenv": "^16.4.5"
-  }
+  "license": "ISC"
 }
