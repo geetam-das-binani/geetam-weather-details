@@ -1,0 +1,14 @@
+{
+  "name": "weather-details",
+  "version": "1.0.0",
+  "description": "A simple package for getting weather details of any location",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "keywords": [],
+  "author": "Geetam Das Binani",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
